@@ -1,0 +1,11 @@
+Welcome to the Imaginery movement training game!
+
+In this game you should help an animal to find their targets. You will see a goat, bunny and 
+bird. You should identify the right target and use one imagined movement to help the animal:
+- right hand movement;
+- left hand movement;
+- feet movement.
+Please note the guidlines. They show you which movement you should use.
+The whole game consists of blocks. We offer you a break beetween them.
+
+Press any key to start the game.
