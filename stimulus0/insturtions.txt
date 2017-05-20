@@ -1,0 +1,9 @@
+Welcome to the Imaginery movement training game!
+In this game you should perform three imaginery movement task:
+	- opening a door by right hand;
+	- opening a door by left hand;
+	- walking on floor.
+You will see guidlines about your task. The whole game consists of blocks. 
+We offer you a break beetween them.
+
+Press any key to start the game.
